@@ -12,7 +12,6 @@
 #### Technical Stack
 
 * JS
-  * little bit hard to using TS, but it will be fine.
   * [x] Express / Koa
   * [x] React
   * [x] Nest.js
