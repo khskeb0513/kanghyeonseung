@@ -1,6 +1,6 @@
 # KANG HYEONSEUNG
 
-### A DBA student want to be a Full Stack Developer
+### A biz student want to be a Full Stack Developer
 
 #### Basic Information
 
