@@ -30,5 +30,5 @@
 
 #### More Information
 
-* ~~Pukyong Nat'l Univ. (KR, Pusan) - Business Administration
+* ~~Pukyong Nat'l Univ. (KR, Pusan) - Business Administration~~
 * Ajou Univ. (KR, Suwon) - E-Business
