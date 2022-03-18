@@ -5,8 +5,7 @@
 #### Basic Information
 
 * M / 20 (2002.05)
-* +821084680551
-* khskeb0513@gmail.com / khskeb0513@pukyong.ac.kr
+* khskeb0513@gmail.com / h5k@ajou.ac.kr
 * https://github.com/khskeb0513
 
 #### Technical Stack
@@ -27,8 +26,9 @@
 * DevOps
   - [x] AWS
   - [x] GIT
-  - [x] Junit
+  - [ ] Junit
 
 #### More Information
 
-* PUKYONG NATIONAL UNIVERSITY (KR, Pusan) - Bachelor of Business Administration
+* ~~Pukyong Nat'l Univ. (KR, Pusan) - Business Administration
+* Ajou Univ. (KR, Suwon) - E-Business
