@@ -1,4 +1,4 @@
-# KANG HYEONSEUNG
+# Hyeonseung Kang
 
 ### A biz student want to be a Full Stack Developer
 
